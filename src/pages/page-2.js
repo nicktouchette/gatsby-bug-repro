@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 export default function Home() {
   return (
     <>
-      <div>Page 2</div>
+      <div>Links still work</div>
       <Link to='/'>Back</Link>
     </>
   )
